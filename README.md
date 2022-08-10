@@ -13,6 +13,6 @@ The specific purpose of this week's module is to harvest data associated with mo
 ### Analysis of Outcomes Based on Challenges and Goals
 
 ### Challenges and Difficulties Encountered
-This module had a lot of information in it: learning the ETL process, gaining an understanding of regular expressions (regex), migrating data into Python (Pandas) and then out into a SQL database.
+This module had a lot of information in it: learning the ETL process, overcoming large data storage hurdles, gaining an understanding of regular expressions (regex), and then finally migrating data into Python (Pandas) and then out into a SQL database.
 
 ## Results
