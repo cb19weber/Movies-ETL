@@ -9,8 +9,10 @@ The specific purpose of this week's module is to harvest data associated with mo
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Project
+What an amazing library of movies! And all of this data to go with it! Over six thousand movie titles and associated information was loaded into a local database. The data was extracted from multiple sources. Each dataset was transformed in Python (Pandas), resulting in easy to read tables that could be merged together to create a single dataset of movie ratings. This allows for incredible amounts of analysis on the correlations to genre, release date, movie budget, overall view ratings, and more.
 
 ### Analysis of Outcomes Based on Challenges and Goals
+
 
 ### Challenges and Difficulties Encountered
 This module had a lot of information in it: learning the ETL process, overcoming large data storage hurdles, gaining an understanding of regular expressions (regex), and then finally migrating data into Python (Pandas) and then out into a SQL database.
@@ -24,3 +26,4 @@ Then came the challenge of using regular expressions (regex). We have definitely
 Learning how to convert dates and times into something that can be used in calculations was especially valuable to me as that is something that I use in financial modeling and reporting pretty consistently. The explanations of which formatting to use were logical, but I can definitely see how there are varieties of solutions here that could be explored based on the datasets and eventual users.
 
 ## Results
+I am beyond thrilled to have gotten deep into the learning curve on the ETL process. This is something that I have been looking forward to from the beginning and I can't wait to implement what I've learned in this module to the data structures I deal with at work. This will make my current role of financial reporting and analysis much more in-depth and give me a grander opportunity to contribute to my company's future growth.
