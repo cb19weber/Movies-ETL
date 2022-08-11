@@ -15,4 +15,10 @@ The specific purpose of this week's module is to harvest data associated with mo
 ### Challenges and Difficulties Encountered
 This module had a lot of information in it: learning the ETL process, overcoming large data storage hurdles, gaining an understanding of regular expressions (regex), and then finally migrating data into Python (Pandas) and then out into a SQL database.
 
+Realistically, I've been doing ETL for a long time without actually having the correct nomenclature for it. Anyone who routinely works with datasets has to perform ETL on some basic level. The exciting challenge of this week's module was to continue learning to transform data in Pandas, which is <i>so much better</i> than using another more basic tool like Microsoft Excel; and then the additional challenge of loading that transformed data into a real database (SQL table). This is INCREDIBLY useful so that not only do I have a reliable clean data source that I can reuse, but I can also share that data source.
+
+This week featured some larger datasets, which provided an initial hurdle of storage solutioning in GitHub. The site rules only allow for files of a certain size, and to overcome that, they have an upgrade solution for Git-LFS (large-file-storage). I had a few hiccups with the initial setup overwriting some of my files, but once I nailed down which files to load into the lfs and others to ignore, it was an easy solution.
+
+Then came the challenge of using regular expressions (regex). We have definitely reached the point where just "glancing" at the code could make most people's eyes widen and come to some conclusion about the impossibilities of reading coding languages. <i>But</i> the documentation is extremely helpful, and once you begin to understand the rules things become manageable. The key is to build small bits of regex code to perform the task that you desire, and then to fine-tune it by expanding out some options.
+
 ## Results
