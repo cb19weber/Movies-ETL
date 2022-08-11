@@ -21,4 +21,6 @@ This week featured some larger datasets, which provided an initial hurdle of sto
 
 Then came the challenge of using regular expressions (regex). We have definitely reached the point where just "glancing" at the code could make most people's eyes widen and come to some conclusion about the impossibilities of reading coding languages. <i>But</i> the documentation is extremely helpful, and once you begin to understand the rules things become manageable. The key is to build small bits of regex code to perform the task that you desire, and then to fine-tune it by expanding out some options.
 
+Learning how to convert dates and times into something that can be used in calculations was especially valuable to me as that is something that I use in financial modeling and reporting pretty consistently. The explanations of which formatting to use were logical, but I can definitely see how there are varieties of solutions here that could be explored based on the datasets and eventual users.
+
 ## Results
