@@ -11,9 +11,6 @@ The specific purpose of this week's module is to harvest data associated with mo
 ### Analysis of Outcomes Based on Project
 What an amazing library of movies! And all of this data to go with it! Over six thousand movie titles and associated information was loaded into a local database. The data was extracted from multiple sources. Each dataset was transformed in Python (Pandas), resulting in easy to read tables that could be merged together to create a single dataset of movie ratings. This allows for incredible amounts of analysis on the correlations to genre, release date, movie budget, overall view ratings, and more.
 
-### Analysis of Outcomes Based on Challenges and Goals
-
-
 ### Challenges and Difficulties Encountered
 This module had a lot of information in it: learning the ETL process, overcoming large data storage hurdles, gaining an understanding of regular expressions (regex), and then finally migrating data into Python (Pandas) and then out into a SQL database.
 
